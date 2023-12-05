@@ -1,0 +1,309 @@
+aiohttp==3.9.1
+aiosignal==1.3.1
+annotated-types==0.6.0
+anyio==3.7.1
+appnope==0.1.3
+archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1699370045702/work
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.0
+async-lru==2.0.4
+async-timeout==4.0.3
+attrs==23.1.0
+autocfg==0.0.8
+Babel==2.13.0
+backcall==0.2.0
+beautifulsoup4==4.12.2
+bleach==6.1.0
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989838345/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1700303426725/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1696001733033/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+cloudpickle==2.0.0
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+comm==0.1.4
+conda @ file:///Users/runner/miniforge3/conda-bld/conda_1699392567201/work
+conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1698967720775/work/src
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1691048088238/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1691009212940/work
+contourpy==1.1.1
+cycler==0.11.0
+debugpy==1.8.0
+decorator==5.1.1
+defusedxml==0.7.1
+distro==1.8.0
+exceptiongroup==1.1.3
+executing==2.0.0
+Farama-Notifications==0.0.4
+fastjsonschema==2.18.1
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1698714947081/work
+fonttools==4.43.1
+fqdn==1.5.1
+frozenlist==1.4.0
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1697919321618/work
+gluoncv==0.10.5.post0
+gmpy2 @ file:///Users/runner/miniforge3/conda-bld/gmpy2_1666808859877/work
+graphviz==0.8.4
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==0.28.1
+h11==0.14.0
+httpcore==1.0.2
+httpx==0.25.1
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata==6.7.0
+ipykernel==6.25.2
+ipython==8.16.1
+ipython-genutils==0.2.0
+ipywidgets==8.1.1
+isoduration==20.11.0
+jax-jumpy==1.0.0
+jedi==0.19.1
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1691577114857/work
+json5==0.9.14
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
+jsonpointer @ file:///Users/runner/miniforge3/conda-bld/jsonpointer_1695397355214/work
+jsonschema==4.19.1
+jsonschema-specifications==2023.7.1
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-events==0.8.0
+jupyter-lsp==2.2.0
+jupyter_client==8.4.0
+jupyter_core==5.4.0
+jupyter_server==2.8.0
+jupyter_server_terminals==0.4.4
+jupyterlab==4.0.7
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.9
+jupyterlab_server==2.25.0
+keyboard==0.13.5
+kiwisolver==1.4.5
+libmambapy @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1698738639971/work/libmambapy
+lightning-utilities==0.10.0
+mamba @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1698738639971/work/mamba
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1695367546419/work
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+mistune==3.0.2
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1678228039184/work
+multidict==6.0.4
+mxnet==1.9.1
+nbclient==0.8.0
+nbconvert==7.9.2
+nbformat==5.9.2
+nest-asyncio==1.5.8
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1698504735452/work
+notebook==7.0.6
+notebook_shim==0.2.3
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1695290936444/work/dist/numpy-1.26.0-cp310-cp310-macosx_10_9_x86_64.whl#sha256=42cb022d77b1d1a025ceb5c99bc1c6bb24a1094728a06994d5100e93e2d92121
+openai==1.2.4
+opencv-python==4.8.1
+overrides==7.4.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1698375830151/work
+pandocfilters==1.5.0
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1697423684222/work
+platformdirs==3.11.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
+portalocker==2.8.2
+prometheus-client==0.17.1
+prompt-toolkit==3.0.39
+psutil==5.9.6
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1696355816665/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydantic==2.5.0
+pydantic_core==2.14.1
+pygame==2.5.2
+Pygments==2.16.1
+pyobjc==10.0
+pyobjc-core==10.0
+pyobjc-framework-Accessibility==10.0
+pyobjc-framework-Accounts==10.0
+pyobjc-framework-AddressBook==10.0
+pyobjc-framework-AdServices==10.0
+pyobjc-framework-AdSupport==10.0
+pyobjc-framework-AppleScriptKit==10.0
+pyobjc-framework-AppleScriptObjC==10.0
+pyobjc-framework-ApplicationServices==10.0
+pyobjc-framework-AppTrackingTransparency==10.0
+pyobjc-framework-AudioVideoBridging==10.0
+pyobjc-framework-AuthenticationServices==10.0
+pyobjc-framework-AutomaticAssessmentConfiguration==10.0
+pyobjc-framework-Automator==10.0
+pyobjc-framework-AVFoundation==10.0
+pyobjc-framework-AVKit==10.0
+pyobjc-framework-BusinessChat==10.0
+pyobjc-framework-CalendarStore==10.0
+pyobjc-framework-CallKit==10.0
+pyobjc-framework-CFNetwork==10.0
+pyobjc-framework-ClassKit==10.0
+pyobjc-framework-CloudKit==10.0
+pyobjc-framework-Cocoa==10.0
+pyobjc-framework-Collaboration==10.0
+pyobjc-framework-ColorSync==10.0
+pyobjc-framework-Contacts==10.0
+pyobjc-framework-ContactsUI==10.0
+pyobjc-framework-CoreAudio==10.0
+pyobjc-framework-CoreAudioKit==10.0
+pyobjc-framework-CoreBluetooth==10.0
+pyobjc-framework-CoreData==10.0
+pyobjc-framework-CoreHaptics==10.0
+pyobjc-framework-CoreLocation==10.0
+pyobjc-framework-CoreMedia==10.0
+pyobjc-framework-CoreMediaIO==10.0
+pyobjc-framework-CoreMIDI==10.0
+pyobjc-framework-CoreML==10.0
+pyobjc-framework-CoreMotion==10.0
+pyobjc-framework-CoreServices==10.0
+pyobjc-framework-CoreSpotlight==10.0
+pyobjc-framework-CoreText==10.0
+pyobjc-framework-CoreWLAN==10.0
+pyobjc-framework-CryptoTokenKit==10.0
+pyobjc-framework-DeviceCheck==10.0
+pyobjc-framework-DictionaryServices==10.0
+pyobjc-framework-DiscRecording==10.0
+pyobjc-framework-DiscRecordingUI==10.0
+pyobjc-framework-DiskArbitration==10.0
+pyobjc-framework-DVDPlayback==10.0
+pyobjc-framework-EventKit==10.0
+pyobjc-framework-ExceptionHandling==10.0
+pyobjc-framework-ExecutionPolicy==10.0
+pyobjc-framework-ExternalAccessory==10.0
+pyobjc-framework-FileProvider==10.0
+pyobjc-framework-FileProviderUI==10.0
+pyobjc-framework-FinderSync==10.0
+pyobjc-framework-FSEvents==10.0
+pyobjc-framework-GameCenter==10.0
+pyobjc-framework-GameController==10.0
+pyobjc-framework-GameKit==10.0
+pyobjc-framework-GameplayKit==10.0
+pyobjc-framework-ImageCaptureCore==10.0
+pyobjc-framework-InputMethodKit==10.0
+pyobjc-framework-InstallerPlugins==10.0
+pyobjc-framework-InstantMessage==10.0
+pyobjc-framework-Intents==10.0
+pyobjc-framework-IOBluetooth==10.0
+pyobjc-framework-IOBluetoothUI==10.0
+pyobjc-framework-IOSurface==10.0
+pyobjc-framework-iTunesLibrary==10.0
+pyobjc-framework-KernelManagement==10.0
+pyobjc-framework-LatentSemanticMapping==10.0
+pyobjc-framework-LaunchServices==10.0
+pyobjc-framework-libdispatch==10.0
+pyobjc-framework-libxpc==10.0
+pyobjc-framework-LinkPresentation==10.0
+pyobjc-framework-LocalAuthentication==10.0
+pyobjc-framework-MapKit==10.0
+pyobjc-framework-MediaAccessibility==10.0
+pyobjc-framework-MediaLibrary==10.0
+pyobjc-framework-MediaPlayer==10.0
+pyobjc-framework-MediaToolbox==10.0
+pyobjc-framework-Metal==10.0
+pyobjc-framework-MetalKit==10.0
+pyobjc-framework-MetalPerformanceShaders==10.0
+pyobjc-framework-MetalPerformanceShadersGraph==10.0
+pyobjc-framework-MLCompute==10.0
+pyobjc-framework-ModelIO==10.0
+pyobjc-framework-MultipeerConnectivity==10.0
+pyobjc-framework-NaturalLanguage==10.0
+pyobjc-framework-NetFS==10.0
+pyobjc-framework-Network==10.0
+pyobjc-framework-NetworkExtension==10.0
+pyobjc-framework-NotificationCenter==10.0
+pyobjc-framework-OpenDirectory==10.0
+pyobjc-framework-OSAKit==10.0
+pyobjc-framework-OSLog==10.0
+pyobjc-framework-PassKit==10.0
+pyobjc-framework-PencilKit==10.0
+pyobjc-framework-Photos==10.0
+pyobjc-framework-PhotosUI==10.0
+pyobjc-framework-PreferencePanes==10.0
+pyobjc-framework-PushKit==10.0
+pyobjc-framework-Quartz==10.0
+pyobjc-framework-QuickLookThumbnailing==10.0
+pyobjc-framework-ReplayKit==10.0
+pyobjc-framework-SafariServices==10.0
+pyobjc-framework-SceneKit==10.0
+pyobjc-framework-ScreenSaver==10.0
+pyobjc-framework-ScreenTime==10.0
+pyobjc-framework-ScriptingBridge==10.0
+pyobjc-framework-SearchKit==10.0
+pyobjc-framework-Security==10.0
+pyobjc-framework-SecurityFoundation==10.0
+pyobjc-framework-SecurityInterface==10.0
+pyobjc-framework-ServiceManagement==10.0
+pyobjc-framework-Social==10.0
+pyobjc-framework-SoundAnalysis==10.0
+pyobjc-framework-Speech==10.0
+pyobjc-framework-SpriteKit==10.0
+pyobjc-framework-StoreKit==10.0
+pyobjc-framework-SyncServices==10.0
+pyobjc-framework-SystemConfiguration==10.0
+pyobjc-framework-SystemExtensions==10.0
+pyobjc-framework-UniformTypeIdentifiers==10.0
+pyobjc-framework-UserNotifications==10.0
+pyobjc-framework-UserNotificationsUI==10.0
+pyobjc-framework-VideoSubscriberAccount==10.0
+pyobjc-framework-VideoToolbox==10.0
+pyobjc-framework-Virtualization==10.0
+pyobjc-framework-Vision==10.0
+pyobjc-framework-WebKit==10.0
+pyparsing==3.1.1
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-json-logger==2.0.7
+pytorch-lightning==2.1.2
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1695373675063/work
+pyzmq==25.1.1
+qtconsole==5.4.4
+QtPy==2.4.0
+referencing==0.30.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.10.6
+ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1699007612517/work
+ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1695996939635/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1698224926020/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1696467669294/work/dist/scipy-1.11.3-cp310-cp310-macosx_10_9_x86_64.whl#sha256=1fd63600e50ac857e2485e8ea8a96f143f06165ffc2be7402e2cfa7498ea0f72
+Send2Trash==1.8.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sniffio==1.3.0
+soupsieve==2.5
+stack-data==0.6.3
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1684180540116/work
+terminado==0.17.1
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1689261241048/work
+tinycss2==1.2.1
+tomli==2.0.1
+torch==2.1.0
+torchmetrics==1.2.0
+torchvision==0.16.0
+tornado==6.3.3
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+traitlets==5.11.2
+truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1694154605758/work
+types-python-dateutil==2.8.19.14
+typing_extensions==4.7.1
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
+uri-template==1.3.0
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1697720414277/work
+wcwidth==0.2.8
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.6.4
+widgetsnbextension==4.0.9
+yacs==0.1.8
+yarl==1.9.3
+zipp==3.15.0
+zstandard==0.22.0
